@@ -1,0 +1,15 @@
+project = "project_name"
+region  = "region_name"
+zone    = "az1 name"
+zone2 = "az2 name"
+
+# Prefixed to all resources
+prefix = "resource_prefix"
+
+# fortianalyzer image and instance type
+# 7.4.5 PAYG is projects/fortigcp-project-001/global/images/fortinet-faz-745-20241023-001-w-license
+# 7.6.3 BYOL is projects/fortigcp-project-001/global/images/fortinet-faz-763-20250423-001-w-license
+fortianalyzer_vm_image     = "projects/fortigcp-project-001/global/images/fortinet-faz-745-20241023-001-w-license"
+fortianalyzer_machine_type = "n2-standard-8"
+
+
