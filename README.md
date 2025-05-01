@@ -14,4 +14,4 @@ The prefix mentioned above is simply a memorable string of text to differentiate
 
 There is no provision for cloudinit on FortiAnalyzer, so you will need to configure all of the required settings on FortiAnalyzer after creation.
 
-For HA, ![this](https://community.fortinet.com/t5/FortiAnalyzer/Technical-Tip-How-to-configure-FortiAnalyzer-HA-instance-in/ta-p/300170) link explains how to set things up.
+[This](https://community.fortinet.com/t5/FortiAnalyzer/Technical-Tip-How-to-configure-FortiAnalyzer-HA-instance-in/ta-p/300170) link explains how to set up HA.
